@@ -790,6 +790,7 @@ body {
 .how__link {
   position: relative;
   padding: 0;
+  color: #000;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
@@ -821,6 +822,7 @@ body {
 
 .how__btn {
   padding: 20px 39px;
+  color: #000;
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
@@ -948,6 +950,7 @@ body {
   min-height: 112px;
   width: 100%;
   padding: 0;
+  color: #000;
   text-align: left;
   font-weight: 700;
   font-size: 24px;
