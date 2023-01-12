@@ -419,6 +419,10 @@
     min-height: 662px;
     border-radius: 24px;
   }
+  
+  .swiper {
+    border-radius: 24px;
+  }
 
   .about-us__paragraph {
     margin-bottom: 54px;
@@ -704,6 +708,10 @@
 
   .hero__wrapper {
     min-height: 308px;
+    border-radius: 16px;
+  }
+  
+  .swiper {
     border-radius: 16px;
   }
 
