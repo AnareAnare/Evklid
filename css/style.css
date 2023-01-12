@@ -1192,7 +1192,7 @@ body {
   position: absolute;
   top: -5px;
   left: -5px;
-  right: -5px;
+  right: -13px;
   bottom: -5px;
   border: 2px solid var(--basic-orange-color);
   opacity: 0;
